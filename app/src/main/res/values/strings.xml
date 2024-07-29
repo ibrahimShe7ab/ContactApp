@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="save">save</string>
+    <string name="save_contact_in_recyclerview">save contact in RecyclerView</string>
+    <string name="description">description</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="descriptionDetials">Description</string>
+</resources>
